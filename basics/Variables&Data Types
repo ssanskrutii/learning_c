@@ -1,0 +1,26 @@
+#include<stdio.h>
+
+int main(){
+    printf("\n\t Variables\n");
+//Variable is like a Container
+
+    int x =5;
+    printf("\n%d",x);
+
+    float y =8;
+    printf("\n%f",y);
+
+    printf("\n\n Division of int ata type");
+    int a =5;
+    int b =2;
+    int p = a/b;
+    printf("\n%d",p);
+
+    printf("\n\n Division of float data type");
+    float X =7;
+    float Y =3;
+    printf("\n%f",X/Y);
+
+    return 0;
+
+}
